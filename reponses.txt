@@ -1,0 +1,13 @@
+a)"git fetch nomA "
+Récupère tout l'historique du dépôt nomA tandis que "git pull nomA" recupere l'historique et y ajoute des possibles modifications
+
+b-- git status pour voir la liste des fichiers pas encore commit puis avevec le hash supprimer les fichiers non desirés
+
+c--en utilisant git branch -d [nom-de-branche]
+
+d--avec git log
+
+
+
+
+
